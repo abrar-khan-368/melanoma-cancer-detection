@@ -41,7 +41,7 @@ To get started with the melanoma detection project, follow these steps:
 
 2. Download the dataset from the provided dataset link and place it in the appropriate directory.
 
-3. Open and run the `melanoma_cancer_detection.ipynb` Jupyter Notebook to train and evaluate the model.
+3. Open and run the `abrar_lohia_nn.ipynb` Jupyter Notebook to train and evaluate the model.
 
 ---
 
